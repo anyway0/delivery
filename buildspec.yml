@@ -4,7 +4,7 @@ version: 0.2
 
 env:
   variables:
-    _PROJECT_NAME: "user06-delivery"
+    _PROJECT_NAME: "bis-delivery"
 
 phases:
   install:
